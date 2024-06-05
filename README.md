@@ -19,5 +19,4 @@ This project performs arithmetic operations (addition and subtraction) on arrays
 
 1. Clone the repository to your local environment:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/lucasbattistipiva/TestApplication.git
